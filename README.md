@@ -27,3 +27,9 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+Done basic tutorial
+---------------
+1. Logging examples
+2. Preview example
+3. Savable example(on change state of activity)
